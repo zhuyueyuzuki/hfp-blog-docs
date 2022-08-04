@@ -31,7 +31,7 @@ module.exports = {
   }),
   title: 'Heart Fire Project',
   lang: 'zh-CN',
-  description: '提供 Heart Fire Project 相关文档',  
+  description: 'Heart Fire Project 文档',  
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }]
   ]
