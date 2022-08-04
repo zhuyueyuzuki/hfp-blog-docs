@@ -6,15 +6,12 @@ module.exports = {
     // sidebar: 'structuring',
     navbar: [
       { text: '主页', link: '/', },
-      { text: '使用文档', link: '/maindocs/BakaXL_Use_Docs/', },
-      { text: '帮助文档', link: '/maindocs/maindocs/', },
+      { text: '作品', link: '/maindocs/works', },
+      { text: '翻译作品', link: '/maindocs/translate_works', },
       {
-        text: '相关文档',
+        text: '相关',
         children: [
-          { text: '游戏常见问题', link: '/maindocs/Minecraft_CRQA/',},
-          { text: '关于版本隔离', link: '/maindocs/About_Version_Seperation/', },
-          { text: 'BakaXL 文档编写规则', link: '/maindocs/BakaXL_HelpDocs_WriteRules/', },
-          { text: '如何提出一个合适的问题', link: '/maindocs/How_To_Asking_Question/', },
+          { text: 'MCBBS 小组', link: 'https://www.mcbbs.net/group-2182-1.html',},
         ],
       } 
     ], // 顶部栏配置
@@ -22,9 +19,9 @@ module.exports = {
     sidebarDepth: 2,
     lastUpdated: '最后更新于',
     smoothScroll: true,
-    repo: 'https://github.com/BakaXL-Support/BakaXL-QA-docs',
+    repo: 'https://github.com/Heart-Fire-Project/hfp-blog-docs',
     repoLabel: 'Github',
-    docsRepo: 'BakaXL-Support/BakaXL-QA-docs',
+    docsRepo: 'Heart-Fire-Project/hfp-blog-docs',
     docsDir: 'docs',
     docsBranch: 'main',
     editLinks: true,
@@ -32,9 +29,9 @@ module.exports = {
     nextLinks: true,
     prevLinks: true
   }),
-  title: 'BakaXL 启动器用户文档',
+  title: 'Heart Fire Project',
   lang: 'zh-CN',
-  description: '提供 BakaXL 启动器在使用时疑难解答服务，同时也提供了一些其他的技术文档',  
+  description: '提供 Heart Fire Project 相关文档',  
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }]
   ]
