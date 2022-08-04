@@ -6,14 +6,25 @@ module.exports = {
     // sidebar: 'structuring',
     navbar: [
       { text: '主页', link: '/', },
-      { text: '作品', link: '/maindocs/works', },
-      { text: '翻译作品', link: '/maindocs/translate_works', },
+      {
+        text: '心火计划',
+        children: [
+          { text: '成员列表', link: '/maindocs/member',},
+        ],
+      },
+      {
+        text: '作品',
+        children: [
+          { text: '原创作品', link: '/maindocs/works', },
+          { text: '翻译作品', link: '/maindocs/translate_works', },
+        ],
+      },
       {
         text: '相关',
         children: [
           { text: 'MCBBS 小组', link: 'https://www.mcbbs.net/group-2182-1.html',},
         ],
-      } 
+      }
     ], // 顶部栏配置
     displayAllHeaders: true, // 默认值：false
     sidebarDepth: 2,
