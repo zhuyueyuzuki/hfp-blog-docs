@@ -6,7 +6,7 @@ TheblueMan003 的作品, Heart Fire Project 成员翻译为 中文(简体) 和 �
 
 ### Gravity Parkour
 
-![Version](https://img.shields.io/badge/Java 1.19-yellow?&style=for-the-badge)
+![Version](https://img.shields.io/badge/Java%201.19-yellow?&style=for-the-badge)
 [![MCBBS](https://img.shields.io/badge/MCBBS-brown?&style=for-the-badge)](https://www.mcbbs.net/thread-1364147-1-1.html)
 [![MinecraftMaps](https://img.shields.io/badge/MinecraftMaps-blue?&style=for-the-badge)](https://www.minecraftmaps.com/parkour-maps/gravity-parkour)
 
@@ -14,7 +14,7 @@ TheblueMan003 的作品, Heart Fire Project 成员翻译为 中文(简体) 和 �
 
 ### Oneshot
 
-![Version](https://img.shields.io/badge/Java 1.19-yellow?&style=for-the-badge)
+![Version](https://img.shields.io/badge/Java%201.19-yellow?&style=for-the-badge)
 [![MCBBS](https://img.shields.io/badge/MCBBS-brown?&style=for-the-badge)](https://www.mcbbs.net/thread-1369563-1-1.html)
 [![PlanetMinecraft](https://img.shields.io/badge/PlanetMinecraft-blue?&style=for-the-badge)](https://www.planetminecraft.com/project/oneshot-5635857)
 
@@ -22,7 +22,7 @@ TheblueMan003 的作品, Heart Fire Project 成员翻译为 中文(简体) 和 �
 
 ### Race For The Crown
 
-![Version](https://img.shields.io/badge/Java 1.19-yellow?&style=for-the-badge)
+![Version](https://img.shields.io/badge/Java%201.19-yellow?&style=for-the-badge)
 [![MCBBS](https://img.shields.io/badge/MCBBS-brown?&style=for-the-badge)](https://www.mcbbs.net/thread-1364911-1-1.html)
 [![PlanetMinecraft](https://img.shields.io/badge/PlanetMinecraft-blue?&style=for-the-badge)](https://www.planetminecraft.com/project/race-for-the-crown)
 
@@ -30,7 +30,7 @@ TheblueMan003 的作品, Heart Fire Project 成员翻译为 中文(简体) 和 �
 
 ### Computery Stuff Remaster
 
-![Version](https://img.shields.io/badge/Java 1.19-yellow?&style=for-the-badge)
+![Version](https://img.shields.io/badge/Java%201.19-yellow?&style=for-the-badge)
 [![MCBBS](https://img.shields.io/badge/MCBBS-brown?&style=for-the-badge)](https://www.mcbbs.net/thread-1365328-1-1.html)
 [![PlanetMinecraft](https://img.shields.io/badge/PlanetMinecraft-blue?&style=for-the-badge)](https://www.planetminecraft.com/project/computery-stuff-remaster)
 
