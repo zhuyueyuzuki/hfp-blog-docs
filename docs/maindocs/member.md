@@ -30,3 +30,10 @@ HeimNad
 [![个人主页](https://img.shields.io/badge/个人主页-blue?&style=for-the-badge)](https://blog.qhqqi.top/)
 
 ## 成员
+
+DenNotFound
+
+> 还没有留言哦，所以这是一条默认留言
+
+[![MCBBS](https://img.shields.io/badge/MCBBS-
+Dennis_Sun-brown?&style=for-the-badge)](https://www.mcbbs.net/?3155165)
