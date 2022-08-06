@@ -25,7 +25,7 @@
 
 HeimNad
 
-> 还没有留言哦，所以这是一条默认留言
+> Let go of things you can't change.
 
 [![个人主页](https://img.shields.io/badge/个人主页-blue?&style=for-the-badge)](https://blog.qhqqi.top/)
 
