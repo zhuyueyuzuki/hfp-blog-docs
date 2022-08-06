@@ -35,5 +35,4 @@ DenNotFound
 
 > 还没有留言哦，所以这是一条默认留言
 
-[![MCBBS](https://img.shields.io/badge/MCBBS-
-Dennis_Sun-brown?&style=for-the-badge)](https://www.mcbbs.net/?3155165)
+[![MCBBS](https://img.shields.io/badge/MCBBS-Dennis%20Sun-brown?&style=for-the-badge)](https://www.mcbbs.net/?3155165)
