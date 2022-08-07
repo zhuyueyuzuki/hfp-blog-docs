@@ -31,6 +31,12 @@ HeimNad
 
 ## 成员
 
+DenNotFound
+
+> 还没有留言哦，所以这是一条默认留言
+
+[![MCBBS](https://img.shields.io/badge/MCBBS-Dennis%20Sun-brown?&style=for-the-badge)](https://www.mcbbs.net/?3155165)
+
 David ²⁰²²
 
 > 改变该改变的，坚持该坚持的；人的生命似洪水奔流，不遇着岛屿、暗礁，难以激起美丽的浪花!
