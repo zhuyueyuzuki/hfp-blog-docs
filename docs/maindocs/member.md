@@ -36,3 +36,12 @@ DenNotFound
 > 还没有留言哦，所以这是一条默认留言
 
 [![MCBBS](https://img.shields.io/badge/MCBBS-Dennis%20Sun-brown?&style=for-the-badge)](https://www.mcbbs.net/?3155165)
+
+David ²⁰²²
+
+> 改变该改变的，坚持该坚持的；人的生命似洪水奔流，不遇着岛屿、暗礁，难以激起美丽的浪花!
+
+[![Github](https://img.shields.io/badge/Github主页-black?logo=GitHub&style=for-the-badge)](https://github.com/xianyongjian080402)
+[![Gitee](https://img.shields.io/badge/Gitee主页-red?logo=Gitee&style=for-the-badge)](https://gitee.com/xian66/)
+[![知乎](https://img.shields.io/badge/知乎主页-e1e1e1?logo=Zhihu&style=for-the-badge)](https://www.zhihu.com/people/ren-zhe-ai-ren-8647)
+[![MCBBS](https://img.shields.io/badge/MCBBS-666666?style=for-the-badge)](https://www.mcbbs.net/?4668715)
