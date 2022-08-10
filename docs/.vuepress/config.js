@@ -24,6 +24,13 @@ module.exports = {
         children: [
           { text: 'MCBBS 小组', link: 'https://www.mcbbs.net/group-2182-1.html',},
         ],
+      },
+      {
+        text: 'Languages',
+        children: [
+          { text: '简体中文', link: 'https://CN.Project-HeartFire.com', },
+          { text: 'English', link: 'https://EN.Project-HeartFire.com', },
+        ],
       }
     ], // 顶部栏配置
     displayAllHeaders: true, // 默认值：false
