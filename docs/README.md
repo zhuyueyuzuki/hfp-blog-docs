@@ -6,7 +6,7 @@ heroImage: /favicon.png
 [//]: # (heroText: Heart Fire Project)
 tagline: 心火计划
 actions:
-  - text: 作品
+  - text: 原创作品
     link: /maindocs/works.md
     type: primary
   - text: 翻译作品
