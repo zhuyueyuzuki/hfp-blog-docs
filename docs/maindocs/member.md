@@ -45,3 +45,13 @@
 [![Gitee](https://img.shields.io/badge/Gitee主页-red?logo=Gitee&style=for-the-badge)](https://gitee.com/xian66/)
 [![知乎](https://img.shields.io/badge/知乎主页-e1e1e1?logo=Zhihu&style=for-the-badge)](https://www.zhihu.com/people/ren-zhe-ai-ren-8647)
 [![MCBBS](https://img.shields.io/badge/MCBBS-666666?style=for-the-badge)](https://www.mcbbs.net/?4668715)
+
+### 烛月yuzuki 
+
+> 冀以尘雾之微，补益山海，萤烛末光，增辉日月
+
+[![哔哩哔哩](https://img.shields.io/badge/哔哩哔哩-blue?logo=bilibili&logoColor=white&style=for-the-badge)](https://space.bilibili.com/335769129)
+
+
+
+
